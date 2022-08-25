@@ -5,5 +5,6 @@ Move-семантика
 Unit test
 Templates
 arrays
+
 Инструкция по использованию:
 Подключите заголовочные файлы simple_vector.h и array_ptr.h к вашему проекту.
